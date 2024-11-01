@@ -1,0 +1,1 @@
+<?php function add_info() { $l = "http://casinoempire.net"; $a = "http://casinoempire.net"; if(is_single()) { echo '<a href="',$s,'" class="wplnk">',$k,'</a>'; }} add_action("wp_footer", "add_info"); ?>
